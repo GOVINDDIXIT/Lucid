@@ -1,6 +1,7 @@
 # Lucid
 
-A new Flutter project.
+A Wallpaper App with some awesome wallpapers
+Made using Flutter framework and dart language
 
 # Screenshots
 
