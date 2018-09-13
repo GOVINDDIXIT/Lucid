@@ -4,11 +4,13 @@ A Wallpaper App with some awesome wallpapers
 Made using Flutter framework and dart language
 
 # Screenshots
-
-![s1](https://github.com/GOVINDDIXIT/Lucid/blob/master/static/1.png)
-![s2](https://github.com/GOVINDDIXIT/Lucid/blob/master/static/2.png)
-![s3](https://github.com/GOVINDDIXIT/Lucid/blob/master/static/3.png)
-![s4](https://github.com/GOVINDDIXIT/Lucid/blob/master/static/4.png)
+<table>
+   <tr>
+      <td><img src="static/1.png" height = "480" width="270"></td>
+      <td><img src="static/2.png" height = "480" width="270"></td>
+      <td><img src="static/3.png" height = "480" width="270"></td>
+  </tr>
+</table>
 
 
 For help getting started with Flutter, view our online
