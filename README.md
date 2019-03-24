@@ -1,7 +1,7 @@
 # Lucid
 
-A Wallpaper App with some awesome wallpapers
-Made using Flutter framework and dart language
+A Wallpaper App with some awesome wallpapers and firebase datebase as backend
+made using Flutter framework and dart language
 
 # Screenshots
 <table>
